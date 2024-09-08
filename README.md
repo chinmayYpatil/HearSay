@@ -2,7 +2,7 @@
 <p align="center">
   <h1><strong>HearSay</strong></h1>
 </p>
-#
+
 
 HearSay is a mobile application that enables real-time voice-to-text and text-to-voice translation for Indian regional languages, aimed at assisting individuals with hearing and speech impairments to communicate effectively. The app is designed with an intuitive and accessible interface to ensure ease of use, along with features that enhance inclusivity and communication in Indian regional languages.
 
